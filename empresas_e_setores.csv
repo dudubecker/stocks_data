@@ -1,0 +1,430 @@
+,Nome,Código,Setor econômico,Subsetor,Segmento
+0,3R PETROLEUM,RRRP,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+1,COSAN       ,CSAN,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+2,DOMMO,DMMO,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+3,ENAUTA PART,ENAT,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+4,PET MANGUINH,RPMG,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+5,PETROBRAS   ,PETR,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+6,PETROBRAS BR,BRDT,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+7,PETRORIO,PRIO,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+8,ULTRAPAR    ,UGPA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+9,LUPATECH    ,LUPA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+10,OSX BRASIL  ,OSXB,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+11,BRADESPAR   ,BRAP,Materiais Básicos,Mineração,Minerais Metálicos
+12,LITEL       ,LTEL,Materiais Básicos,Mineração,Minerais Metálicos
+13,LITELA,LTLA,Materiais Básicos,Mineração,Minerais Metálicos
+14,MMX MINER   ,MMXM,Materiais Básicos,Mineração,Minerais Metálicos
+15,VALE        ,VALE,Materiais Básicos,Mineração,Minerais Metálicos
+16,FERBASA     ,FESA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+17,GERDAU      ,GGBR,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+18,GERDAU MET  ,GOAU,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+19,SID NACIONAL,CSNA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+20,USIMINAS    ,USIM,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+21,MANGELS INDL,MGEL,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+22,PANATLANTICA,PATI,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+23,TEKNO       ,TKNO,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+24,PARANAPANEMA,PMAM,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Cobre
+25,BRASKEM     ,BRKM,Materiais Básicos,Químicos,Petroquímicos
+26,GPC PART    ,GPCP,Materiais Básicos,Químicos,Petroquímicos
+27,FER HERINGER,FHER,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+28,NUTRIPLANT  ,NUTR,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+29,CRISTAL,CRPG,Materiais Básicos,Químicos,Químicos Diversos
+30,UNIPAR      ,UNIP,Materiais Básicos,Químicos,Químicos Diversos
+31,DURATEX     ,DTEX,Materiais Básicos,Madeira e Papel,Madeira
+32,EUCATEX     ,EUCA,Materiais Básicos,Madeira e Papel,Madeira
+33,IRANI ,RANI,Materiais Básicos,Madeira e Papel,Papel e Celulose
+34,KLABIN S/A  ,KLBN,Materiais Básicos,Madeira e Papel,Papel e Celulose
+35,MELHOR SP   ,MSPA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+36,SANTHER     ,STTZ,Materiais Básicos,Madeira e Papel,Papel e Celulose
+37,SUZANO HOLD ,NEMO,Materiais Básicos,Madeira e Papel,Papel e Celulose
+38,SUZANO S.A.,SUZB,Materiais Básicos,Madeira e Papel,Papel e Celulose
+39,METAL IGUACU,MTIG,Materiais Básicos,Embalagens,Embalagens
+40,SANSUY      ,SNSY,Materiais Básicos,Materiais Diversos,Materiais Diversos
+41,ETERNIT     ,ETER,Bens Industriais,Construção e Engenharia,Produtos para Construção
+42,HAGA S/A    ,HAGA,Bens Industriais,Construção e Engenharia,Produtos para Construção
+43,PORTOBELLO  ,PTBL,Bens Industriais,Construção e Engenharia,Produtos para Construção
+44,AZEVEDO     ,AZEV,Bens Industriais,Construção e Engenharia,Construção Pesada
+45,SONDOTECNICA,SOND,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+46,TECNOSOLO   ,TCNO,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+47,MILLS       ,MILS,Bens Industriais,Construção e Engenharia,Serviços Diversos
+48,EMBRAER     ,EMBR,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+49,FRAS-LE     ,FRAS,Bens Industriais,Material de Transporte,Material Rodoviário
+50,MARCOPOLO   ,POMO,Bens Industriais,Material de Transporte,Material Rodoviário
+51,RANDON PART ,RAPT,Bens Industriais,Material de Transporte,Material Rodoviário
+52,RECRUSUL    ,RCSL,Bens Industriais,Material de Transporte,Material Rodoviário
+53,RIOSULENSE  ,RSUL,Bens Industriais,Material de Transporte,Material Rodoviário
+54,TUPY        ,TUPY,Bens Industriais,Material de Transporte,Material Rodoviário
+55,WETZEL S/A  ,MWET,Bens Industriais,Material de Transporte,Material Rodoviário
+56,SCHULZ      ,SHUL,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+57,WEG         ,WEGE,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+58,ACO ALTONA  ,EALT,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+59,AERIS,AERI,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+60,BARDELLA    ,BDLL,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+61,INDS ROMI   ,ROMI,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+62,INEPAR      ,INEP,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+63,KEPLER WEBER,KEPL,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+64,METALFRIO   ,FRIO,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+65,NORDON MET  ,NORD,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+66,PRATICA,PTCA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+67,METISA      ,MTSA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+68,STARA,STTR,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+69,TAURUS ARMAS,TASA,Bens Industriais,Máquinas e Equipamentos,Armas e Munições
+70,AZUL,AZUL,Bens Industriais,Transporte,Transporte Aéreo
+71,GOL         ,GOLL,Bens Industriais,Transporte,Transporte Aéreo
+72,ALL NORTE   ,FRRN,Bens Industriais,Transporte,Transporte Ferroviário
+73,ALL PAULISTA,GASC,Bens Industriais,Transporte,Transporte Ferroviário
+74,COSAN LOG,RLOG,Bens Industriais,Transporte,Transporte Ferroviário
+75,FER C ATLANT,VSPT,Bens Industriais,Transporte,Transporte Ferroviário
+76,MRS LOGIST  ,MRSA,Bens Industriais,Transporte,Transporte Ferroviário
+77,RUMO S.A.,RAIL,Bens Industriais,Transporte,Transporte Ferroviário
+78,HIDROVIAS,HBSA,Bens Industriais,Transporte,Transporte Hidroviário
+79,LOG-IN      ,LOGN,Bens Industriais,Transporte,Transporte Hidroviário
+80,TREVISA     ,LUXM,Bens Industriais,Transporte,Transporte Hidroviário
+81,JSL         ,JSLG,Bens Industriais,Transporte,Transporte Rodoviário
+82,TEGMA       ,TGMA,Bens Industriais,Transporte,Transporte Rodoviário
+83,AUTOBAN     ,ANHB,Bens Industriais,Transporte,Exploração de Rodovias
+84,CCR SA      ,CCRO,Bens Industriais,Transporte,Exploração de Rodovias
+85,CONC RAPOSO ,RPTA,Bens Industriais,Transporte,Exploração de Rodovias
+86,CONC RIO TER,CRTE,Bens Industriais,Transporte,Exploração de Rodovias
+87,ECON        ,ERDV,Bens Industriais,Transporte,Exploração de Rodovias
+88,ECOPISTAS   ,ASCP,Bens Industriais,Transporte,Exploração de Rodovias
+89,ECORODOVIAS ,ECOR,Bens Industriais,Transporte,Exploração de Rodovias
+90,ECOVIAS     ,ECOV,Bens Industriais,Transporte,Exploração de Rodovias
+91,ROD COLINAS ,COLN,Bens Industriais,Transporte,Exploração de Rodovias
+92,ROD TIETE   ,RDVT,Bens Industriais,Transporte,Exploração de Rodovias
+93,RT BANDEIRAS,CRBD,Bens Industriais,Transporte,Exploração de Rodovias
+94,TRIANGULOSOL,TRIA,Bens Industriais,Transporte,Exploração de Rodovias
+95,TRIUNFO PART,TPIS,Bens Industriais,Transporte,Exploração de Rodovias
+96,VIAOESTE    ,VOES,Bens Industriais,Transporte,Exploração de Rodovias
+97,GRUAIRPORT,AGRU,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+98,PORTO VM,PSVM,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+99,INVEPAR     ,IVPR,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+100,SALUS INFRA,SAIP,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+101,SANTOS BRP  ,STBP,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+102,WILSON SONS ,WSON,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+103,ATMASA,ATMP,Bens Industriais,Serviços Diversos,Serviços Diversos
+104,AMBIPAR,AMBP,Bens Industriais,Serviços Diversos,Serviços Diversos
+105,BBMLOGISTICA,BBML,Bens Industriais,Serviços Diversos,Serviços Diversos
+106,CSU CARDSYST,CARD,Bens Industriais,Serviços Diversos,Serviços Diversos
+107,DTCOM-DIRECT,DTCY,Bens Industriais,Serviços Diversos,Serviços Diversos
+108,ESTAPAR,ALPK,Bens Industriais,Serviços Diversos,Serviços Diversos
+109,FLEX S/A,FLEX,Bens Industriais,Serviços Diversos,Serviços Diversos
+110,PRINER,PRNR,Bens Industriais,Serviços Diversos,Serviços Diversos
+111,SEQUOIA LOG,SEQL,Bens Industriais,Serviços Diversos,Serviços Diversos
+112,VALID       ,VLID,Bens Industriais,Serviços Diversos,Serviços Diversos
+113,BATTISTELLA ,BTTL,Bens Industriais,Comércio,Material de Transporte
+114,MINASMAQUINA,MMAQ,Bens Industriais,Comércio,Material de Transporte
+115,WLM IND COM ,WLMM,Bens Industriais,Comércio,Material de Transporte
+116,ALIPERTI    ,APTI,Consumo não Cíclico,Agropecuária,Agricultura
+117,BRASILAGRO  ,AGRO,Consumo não Cíclico,Agropecuária,Agricultura
+118,POMIFRUTAS,FRTA,Consumo não Cíclico,Agropecuária,Agricultura
+119,SLC AGRICOLA,SLCE,Consumo não Cíclico,Agropecuária,Agricultura
+120,TERRA SANTA,TESA,Consumo não Cíclico,Agropecuária,Agricultura
+121,BIOSEV,BSEV,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+122,RAIZEN ENERG,RESA,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+123,SAO MARTINHO,SMTO,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+124,BRF SA   ,BRFS,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+125,EXCELSIOR   ,BAUH,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+126,JBS         ,JBSS,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+127,MARFRIG     ,MRFG,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+128,MINERVA     ,BEEF,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+129,MINUPAR     ,MNPR,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+130,CAMIL,CAML,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+131,J.MACEDO    ,JMCD,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+132,JOSAPAR     ,JOPA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+133,M.DIASBRANCO,MDIA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+134,ODERICH     ,ODER,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+135,AMBEV S/A,ABEV,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+136,GRUPO NATURA      ,NTCO,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+137,BOMBRIL     ,BOBR,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+138,CARREFOUR BR,CRFB,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+139,GRUPO MATEUS,GMAT,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+140,P.ACUCAR-CBD,PCAR,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+141,ALPHAVILLE,AVLL,Consumo Cíclico,Construção Civil,Incorporações
+142,CONST A LIND,CALI,Consumo Cíclico,Construção Civil,Incorporações
+143,CR2         ,CRDE,Consumo Cíclico,Construção Civil,Incorporações
+144,CURY S/A,CURY,Consumo Cíclico,Construção Civil,Incorporações
+145,CYRELA REALT,CYRE,Consumo Cíclico,Construção Civil,Incorporações
+146,DIRECIONAL  ,DIRR,Consumo Cíclico,Construção Civil,Incorporações
+147,EVEN        ,EVEN,Consumo Cíclico,Construção Civil,Incorporações
+148,EZTEC       ,EZTC,Consumo Cíclico,Construção Civil,Incorporações
+149,GAFISA      ,GFSA,Consumo Cíclico,Construção Civil,Incorporações
+150,HELBOR      ,HBOR,Consumo Cíclico,Construção Civil,Incorporações
+151,INTER SA ,INNT,Consumo Cíclico,Construção Civil,Incorporações
+152,JHSF PART   ,JHSF,Consumo Cíclico,Construção Civil,Incorporações
+153,JOAO FORTES ,JFEN,Consumo Cíclico,Construção Civil,Incorporações
+154,LAVVI,LAVV,Consumo Cíclico,Construção Civil,Incorporações
+155,MELNICK,MELK,Consumo Cíclico,Construção Civil,Incorporações
+156,MITRE REALTY,MTRE,Consumo Cíclico,Construção Civil,Incorporações
+157,MOURA DUBEUX,MDNE,Consumo Cíclico,Construção Civil,Incorporações
+158,MRV         ,MRVE,Consumo Cíclico,Construção Civil,Incorporações
+159,PDG REALT   ,PDGR,Consumo Cíclico,Construção Civil,Incorporações
+160,PLANOEPLANO,PLPL,Consumo Cíclico,Construção Civil,Incorporações
+161,RNI,RDNI,Consumo Cíclico,Construção Civil,Incorporações
+162,ROSSI RESID ,RSID,Consumo Cíclico,Construção Civil,Incorporações
+163,TECNISA     ,TCSA,Consumo Cíclico,Construção Civil,Incorporações
+164,TENDA,TEND,Consumo Cíclico,Construção Civil,Incorporações
+165,TRISUL      ,TRIS,Consumo Cíclico,Construção Civil,Incorporações
+166,VIVER       ,VIVR,Consumo Cíclico,Construção Civil,Incorporações
+167,CEDRO       ,CEDO,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+168,COTEMINAS   ,CTNM,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+169,DOHLER      ,DOHL,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+170,ENCORPAR    ,ECPR,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+171,IND CATAGUAS,CATA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+172,KARSTEN     ,CTKA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+173,PETTENATI   ,PTNT,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+174,SANTANENSE  ,CTSA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+175,SPRINGS     ,SGPS,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+176,TEKA        ,TEKA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+177,TEX RENAUX  ,TXRX,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+178,CIA HERING  ,HGTX,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Vestuário
+179,TRACK FIELD,TFCO,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Vestuário
+180,ALPARGATAS  ,ALPA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+181,CAMBUCI     ,CAMB,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+182,GRENDENE    ,GRND,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+183,VULCABRAS   ,VULC,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+184,MUNDIAL     ,MNDL,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+185,TECHNOS     ,TECN,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+186,VIVARA S.A.,VIVA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+187,WHIRLPOOL   ,WHRL,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+188,UNICASA,UCAS,Consumo Cíclico,Utilidades Domésticas,Móveis
+189,HERCULES    ,HETA,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+190,IOCHP-MAXION,MYPK,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+191,METAL LEVE  ,LEVE,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+192,PLASCAR PART,PLAS,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+193,HOTEIS OTHON,HOOT,Consumo Cíclico,Hoteis e Restaurantes,Hotelaria
+194,BK BRASIL,BKBR,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+195,IMC S/A,MEAL,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+196,BIC MONARK  ,BMKS,Consumo Cíclico,Viagens e Lazer,Bicicletas
+197,ESTRELA     ,ESTR,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+198,SPTURIS     ,AHEB,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+199,TIME FOR FUN,SHOW,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+200,CVC BRASIL,CVCB,Consumo Cíclico,Viagens e Lazer,Viagens e Turismo
+201,SMART FIT,SMFT,Consumo Cíclico,Viagens e Lazer,Atividades Esportivas
+202,ANIMA,ANIM,Consumo Cíclico,Diversos,Serviços Educacionais
+203,BAHEMA      ,BAHI,Consumo Cíclico,Diversos,Serviços Educacionais
+204,COGNA ON,COGN,Consumo Cíclico,Diversos,Serviços Educacionais
+205,SER EDUCA,SEER,Consumo Cíclico,Diversos,Serviços Educacionais
+206,YDUQS PART,YDUQ,Consumo Cíclico,Diversos,Serviços Educacionais
+207,LOCALIZA    ,RENT,Consumo Cíclico,Diversos,Aluguel de carros
+208,LOCAMERICA,LCAM,Consumo Cíclico,Diversos,Aluguel de carros
+209,MAESTROLOC,MSRO,Consumo Cíclico,Diversos,Aluguel de carros
+210,MOVIDA,MOVI,Consumo Cíclico,Diversos,Aluguel de carros
+211,UNIDAS      ,UNID,Consumo Cíclico,Diversos,Aluguel de carros
+212,SMILES,SMLS,Consumo Cíclico,Diversos,Programas de Fidelização
+213,AREZZO CO   ,ARZZ,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+214,CEA MODAS,CEAB,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+215,GRAZZIOTIN  ,CGRA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+216,GRUPO SOMA,SOMA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+217,GUARARAPES  ,GUAR,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+218,LE LIS BLANC,LLIS,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+219,LOJAS MARISA,AMAR,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+220,LOJAS RENNER,LREN,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+221,MAGAZ LUIZA ,MGLU,Consumo Cíclico,Comércio,Eletrodomésticos
+222,VIAVAREJO,VVAR,Consumo Cíclico,Comércio,Eletrodomésticos
+223,B2W DIGITAL,BTOW,Consumo Cíclico,Comércio,Produtos Diversos
+224,CENTAURO,CNTO,Consumo Cíclico,Comércio,Produtos Diversos
+225,LOJAS AMERIC,LAME,Consumo Cíclico,Comércio,Produtos Diversos
+226,PETZ,PETZ,Consumo Cíclico,Comércio,Produtos Diversos
+227,QUERO-QUERO,LJQQ,Consumo Cíclico,Comércio,Produtos Diversos
+228,SARAIVA LIVR,SLED,Consumo Cíclico,Comércio,Produtos Diversos
+229,BIOMM       ,BIOM,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+230,NORTCQUIMICA,NRTQ,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+231,OUROFINO S/A,OFSA,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+232,ADVANCED-DH,ADHM,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+233,ALLIAR,AALR,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+234,DASA        ,DASA,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+235,FLEURY      ,FLRY,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+236,HAPVIDA,HAPV,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+237,IHPARDINI,PARD,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+238,INTERMEDICA,GNDI,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+239,ODONTOPREV  ,ODPV,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+240,QUALICORP   ,QUAL,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+241,REDE D OR,RDOR,Saúde,"Serviços Médico - Hospitalares, Análises e Diagnósticos","Serviços Médico - Hospitalares, Análises e Diagnósticos"
+242,BAUMER      ,BALM,Saúde,Equipamentos,Equipamentos
+243,LIFEMED,LMED,Saúde,Equipamentos,Equipamentos
+244,DIMED       ,PNVL,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+245,D1000VFARMA,DMVF,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+246,HYPERA,HYPE,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+247,PAGUE MENOS,PGMN,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+248,PROFARMA    ,PFRM,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+249,RAIADROGASIL    ,RADL,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+250,POSITIVO TEC,POSI,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+251,BRQ,BRQB,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+252,ENJOEI,ENJU,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+253,LINX,LINX,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+254,LOCAWEB,LWSA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+255,MELIUZ,CASH,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+256,NEOGRID,NGRD,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+257,QUALITY SOFT,QUSW,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+258,SINQIA,SQIA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+259,TOTVS       ,TOTS,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+260,ALGAR TELEC,ALGT,Comunicações,Telecomunicações,Telecomunicações
+261,OI,OIBR,Comunicações,Telecomunicações,Telecomunicações
+262,TELEBRAS    ,TELB,Comunicações,Telecomunicações,Telecomunicações
+263,TELEF BRASIL,VIVT,Comunicações,Telecomunicações,Telecomunicações
+264,TIM,TIMS,Comunicações,Telecomunicações,Telecomunicações
+265,CINESYSTEM,CNSY,Comunicações,Mídia,Produção e Difusão de Filmes e Programas
+266,AES SUL,AESL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+267,AES TIETE E,TIET,Utilidade Pública,Energia Elétrica,Energia Elétrica
+268,AFLUENTE T,AFLT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+269,ALUPAR,ALUP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+270,AMPLA ENERG,CBEE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+271,CACHOEIRA,CPTE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+272,CEB,CEBR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+273,CEEE-D,CEED,Utilidade Pública,Energia Elétrica,Energia Elétrica
+274,CEEE-GT,EEEL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+275,CELESC,CLSC,Utilidade Pública,Energia Elétrica,Energia Elétrica
+276,CELGPAR,GPAR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+277,CELPE,CEPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+278,CEMIG,CMIG,Utilidade Pública,Energia Elétrica,Energia Elétrica
+279,CEMIG DIST,CMGD,Utilidade Pública,Energia Elétrica,Energia Elétrica
+280,CEMIG GT,CMGT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+281,CESP,CESP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+282,COELBA,CEEB,Utilidade Pública,Energia Elétrica,Energia Elétrica
+283,COELCE,COCE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+284,COPEL,CPLE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+285,COSERN,CSRN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+286,CPFL ENERGIA,CPFE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+287,CPFL GERACAO,CPFG,Utilidade Pública,Energia Elétrica,Energia Elétrica
+288,CPFL PIRATIN,CPFP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+289,CPFL RENOVAV,CPRE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+290,EBE,EBEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+291,ELEKTRO,EKTR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+292,ELETROBRAS,ELET,Utilidade Pública,Energia Elétrica,Energia Elétrica
+293,ELETROPAR,LIPR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+294,EMAE,EMAE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+295,ENERGIAS BR,ENBR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+296,ENERGISA,ENGI,Utilidade Pública,Energia Elétrica,Energia Elétrica
+297,ENERGISA MT,ENMT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+298,ENERSUL,ENER,Utilidade Pública,Energia Elétrica,Energia Elétrica
+299,ENEVA,ENEV,Utilidade Pública,Energia Elétrica,Energia Elétrica
+300,ENGIE BRASIL,EGIE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+301,EQTL PARA,EQPA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+302,EQTLMARANHAO,EQMA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+303,EQUATORIAL,EQTL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+304,ESCELSA,ESCE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+305,FGENERGIA,FGEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+306,GER PARANAP,GEPA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+307,ITAPEBI,ITPB,Utilidade Pública,Energia Elétrica,Energia Elétrica
+308,LIGHT,LIGH,Utilidade Pública,Energia Elétrica,Energia Elétrica
+309,LIGHT S/A,LIGT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+310,NEOENERGIA,NEOE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+311,OMEGA GER,OMGE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+312,PAUL F LUZ,PALF,Utilidade Pública,Energia Elétrica,Energia Elétrica
+313,PROMAN,PRMN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+314,REDE ENERGIA,REDE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+315,RENOVA,RNEW,Utilidade Pública,Energia Elétrica,Energia Elétrica
+316,STATKRAFT,STKF,Utilidade Pública,Energia Elétrica,Energia Elétrica
+317,STO ANTONIO,STEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+318,TAESA,TAEE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+319,TERMOPE,TMPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+320,TERM. PE III,TEPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+321,TRAN PAULIST,TRPL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+322,UPTICK,UPKP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+323,CASAN,CASN,Utilidade Pública,Água e Saneamento,Água e Saneamento
+324,COPASA,CSMG,Utilidade Pública,Água e Saneamento,Água e Saneamento
+325,IGUA SA,IGSN,Utilidade Pública,Água e Saneamento,Água e Saneamento
+326,SABESP,SBSP,Utilidade Pública,Água e Saneamento,Água e Saneamento
+327,SANEPAR,SAPR,Utilidade Pública,Água e Saneamento,Água e Saneamento
+328,SANESALTO,SNST,Utilidade Pública,Água e Saneamento,Água e Saneamento
+329,CEG,CEGR,Utilidade Pública,Gás,Gás
+330,COMGAS,CGAS,Utilidade Pública,Gás,Gás
+331,ABC BRASIL  ,ABCB,Financeiro,Intermediários Financeiros,Bancos
+332,ALFA HOLDING,RPAD,Financeiro,Intermediários Financeiros,Bancos
+333,ALFA INVEST ,BRIV,Financeiro,Intermediários Financeiros,Bancos
+334,AMAZONIA    ,BAZA,Financeiro,Intermediários Financeiros,Bancos
+335,BANCO BMG,BMGB,Financeiro,Intermediários Financeiros,Bancos
+336,BANCO INTER,BIDI,Financeiro,Intermediários Financeiros,Bancos
+337,BANCO PAN,BPAN,Financeiro,Intermediários Financeiros,Bancos
+338,BANESE      ,BGIP,Financeiro,Intermediários Financeiros,Bancos
+339,BANESTES    ,BEES,Financeiro,Intermediários Financeiros,Bancos
+340,BANPARA     ,BPAR,Financeiro,Intermediários Financeiros,Bancos
+341,BANRISUL    ,BRSR,Financeiro,Intermediários Financeiros,Bancos
+342,BRADESCO    ,BBDC,Financeiro,Intermediários Financeiros,Bancos
+343,BRASIL      ,BBAS,Financeiro,Intermediários Financeiros,Bancos
+344,BRB BANCO   ,BSLI,Financeiro,Intermediários Financeiros,Bancos
+345,BTGP BANCO,BPAC,Financeiro,Intermediários Financeiros,Bancos
+346,INDUSVAL    ,IDVL,Financeiro,Intermediários Financeiros,Bancos
+347,ITAUSA      ,ITSA,Financeiro,Intermediários Financeiros,Bancos
+348,ITAUUNIBANCO,ITUB,Financeiro,Intermediários Financeiros,Bancos
+349,MERC BRASIL ,BMEB,Financeiro,Intermediários Financeiros,Bancos
+350,MERC INVEST ,BMIN,Financeiro,Intermediários Financeiros,Bancos
+351,NORD BRASIL ,BNBR,Financeiro,Intermediários Financeiros,Bancos
+352,PARANA      ,PRBC,Financeiro,Intermediários Financeiros,Bancos
+353,PINE        ,PINE,Financeiro,Intermediários Financeiros,Bancos
+354,SANTANDER BR,SANB,Financeiro,Intermediários Financeiros,Bancos
+355,ALFA FINANC ,CRIV,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+356,FINANSINOS  ,FNCN,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+357,MERC FINANC ,MERC,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+358,BRADESCO LSG,BDLS,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+359,DIBENS LSG  ,DBEN,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+360,BRAZIL REALT,BZRS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+361,BRAZILIAN SC,BSCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+362,BRPR 56 SEC,WTVR,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+363,CIBRASEC,CBSC,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+364,ECO SEC AGRO,ECOA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+365,GAIA AGRO   ,GAFL,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+366,GAIA SECURIT,GAIA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+367,OCTANTE SEC,OCTS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+368,PDG SECURIT ,PDGS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+369,POLO CAP SEC,PLSC,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+370,RBCAPITALRES,RBRA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+371,TRUESEC,APCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+372,VERTCIASEC,VERT,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+373,WTORRE PIC  ,WTPI,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+374,BNDESPAR    ,BNDP,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+375,BRAZILIAN FR,BFRE,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+376,GP INVEST   ,GPIV,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+377,PADTEC,PDTC,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+378,PPLA,PPLA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+379,B3 ,B3SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+380,BOA VISTA,BOAS,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+381,CIELO       ,CIEL,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+382,ALFA CONSORC,BRGE,Financeiro,Previdência e Seguros,Seguradoras
+383,BBSEGURIDADE,BBSE,Financeiro,Previdência e Seguros,Seguradoras
+384,IRBBRASIL RE,IRBR,Financeiro,Previdência e Seguros,Seguradoras
+385,PORTO SEGURO,PSSA,Financeiro,Previdência e Seguros,Seguradoras
+386,SEG AL BAHIA,CSAB,Financeiro,Previdência e Seguros,Seguradoras
+387,SUL AMERICA ,SULA,Financeiro,Previdência e Seguros,Seguradoras
+388,ALPER S.A.,APER,Financeiro,Previdência e Seguros,Corretoras de Seguros
+389,WIZ S.A.,WIZS,Financeiro,Previdência e Seguros,Corretoras de Seguros
+390,ALIANSCSONAE,ALSO,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+391,BR MALLS PAR,BRML,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+392,BR PROPERT  ,BRPR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+393,COR RIBEIRO ,CORR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+394,CYRE COM-CCP,CCPR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+395,GENERALSHOPP,GSHP,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+396,HABITASUL   ,HBTS,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+397,IGB S/A     ,IGBR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+398,IGUATEMI    ,IGTA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+399,JEREISSATI  ,JPSA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+400,LOG COM PROP,LOGG,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+401,MENEZES CORT,MNZC,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+402,MULTIPLAN   ,MULT,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+403,SAO CARLOS  ,SCAR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+404,BR BROKERS  ,BBRK,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+405,LOPES BRASIL,LPSB,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+406,MONT ARANHA ,MOAR,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+407,PAR AL BAHIA,PEAB,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+408,SIMPAR,SIMH,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+409,CEPAC - CTBA,CTBA,Financeiro,Outros Títulos,Outros Títulos
+410,CEPAC - MCRJ,MCRJ,Financeiro,Outros Títulos,Outros Títulos
+411,CEPAC - PMSP,PMSP,Financeiro,Outros Títulos,Outros Títulos
+412,524 PARTICIP,QVQP,Outros,Outros,Outros
+413,ALEF S/A    ,ALEF,Outros,Outros,Outros
+414,ATOMPAR,ATOM,Outros,Outros,Outros
+415,BETAPART    ,BETP,Outros,Outros,Outros
+416,CABINDA PART,CABI,Outros,Outros,Outros
+417,CACONDE PART,CACO,Outros,Outros,Outros
+418,CEMEPE      ,MAPT,Outros,Outros,Outros
+419,CIMS        ,CMSA,Outros,Outros,Outros
+420,GAMA PART   ,OPGM,Outros,Outros,Outros
+421,INVEST BEMGE,FIGE,Outros,Outros,Outros
+422,J B DUARTE  ,JBDU,Outros,Outros,Outros
+423,MGI PARTICIP,MGIP,Outros,Outros,Outros
+424,OPPORT ENERG,OPHE,Outros,Outros,Outros
+425,POLPAR      ,PPAR,Outros,Outros,Outros
+426,PROMPT PART ,PRPT,Outros,Outros,Outros
+427,SUDESTE S/A ,OPSE,Outros,Outros,Outros
+428,SUL 116 PART,OPTS,Outros,Outros,Outros
